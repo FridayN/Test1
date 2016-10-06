@@ -4,5 +4,6 @@
 var a=10;
 var b=100;
 var c=1111;
+var d=213;
 var x=123;
 var blabla='bla';
